@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/tmkcell/tmkcell/blob/main/microbit-bad-apple.gif" width=292 height=253/>
+ <img src="https://github.com/tmkcell/tmkcell/blob/main/primal.gif" width=480 height=270/>
 </p>
 
 ## hi there!
