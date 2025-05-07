@@ -1,1 +1,1 @@
-# i've moved to [codeberg](https://https://codeberg.org/tmkcell)
+# i've moved to [codeberg](https://codeberg.org/tmkcell)
